@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Quick Restart",
+	"Description": "Adds a simple button for quick-restarting the editor.",
+	"Category": "Developer",
+	"CreatedBy": "MajorT",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "QuickRestart",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"SupportURL": ""
+}
